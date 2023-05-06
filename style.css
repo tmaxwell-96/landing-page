@@ -1,0 +1,56 @@
+body {
+    font font-family: hero;
+}
+ul {
+    list-style-type: none;
+    
+  
+}
+ul {
+    display: flex;
+    gap: 16px;
+}
+    
+.header-links {
+    color: red
+}
+.top {
+    background-color: #1f2937;
+    color: white;
+}
+.topheader {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.white-header {
+    font-weight: bold;
+    font-size: 48px;
+}
+.top-text {
+    color: #e5e7eb;
+}
+.signup {
+    background-color: #3882f6;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    flex-basis: 40px;
+}
+.top-spacing {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.topcontainer {
+    display: flex;
+    flex-direction: column;
+    
+    
+}
